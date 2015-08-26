@@ -1,16 +1,42 @@
 *.log
 .htaccess
+index.php
+license.txt
+readme.html
 sitemap.xml
 sitemap.xml.gz
 wp-config.php
+wp-*.php
+xmlrpc.php
+wp-admin/
 wp-content/advanced-cache.php
 wp-content/backup-db/
 wp-content/backups/
 wp-content/blogs.dir/
+wp-content/brtmap/
 wp-content/cache/
+wp-content/plugins/column-shortcodes/
+wp-content/plugins/email-address-encoder/
+wp-content/plugins/genesis-simple-edits
+wp-content/plugins/google-analytics-for-wordpress/
+wp-content/plugins/google-apps-login/
+wp-content/plugins/hyperdb/
+wp-content/plugins/jquery-collapse-o-matic/
+wp-content/plugins/list-category-posts/
+wp-content/plugins/mu-plugins/
+wp-content/plugins/nelio-ab-testing/
+wp-content/plugins/optimizely/
+wp-content/plugins/table-of-contents-plus/
+wp-content/plugins/wordpress-seo-premium/
+wp-content/themes/genesis/
+wp-content/themes/itdp-responsive/README.md
+wp-content/themes/itdp-responsive/xml/sample.xml
+wp-content/themes/twenty*/
+wp-content/todmap/
 wp-content/upgrade/
 wp-content/uploads/
 wp-content/wp-cache-config.php
+wp-includes/
 
 # =========================
 # Operating System Files
@@ -58,3 +84,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
