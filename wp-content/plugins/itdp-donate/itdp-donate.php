@@ -6,6 +6,7 @@ Version: 2.00.03
 Author: Joe Westcott
 Author URI: http://www.joewestcott.info/
 Release Notes:
+2.00.04	formatting: aligned top of amount selection list with "Amount" label
 2.00.03 updated donation amount options per https://trello.com/c/Hu0mcFc9
 2.00.02	reduce recurring option to monthly and annual
 2.00.01 switch $35 donation amount to $40
@@ -81,6 +82,10 @@ return '<script src="/wp-content/plugins/itdp-donate/KELLValidationLibrary-1.27.
 	
 	.donateform label, .donateform input, .donateform select, .donateform ul, .donateform textarea {
 		margin: 10px 0;
+	}
+	
+	.donateform ul.amounts {
+		margin-top: 18px;
 	}
 	
 	.donateform ul.recurring {
