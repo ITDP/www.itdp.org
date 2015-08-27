@@ -1,10 +1,26 @@
 After you install Genesis -- see readme-themes.txt -- you will need to configure the following Genesis settings within Wordpress:
 
-Genesis (top level of admin menu) > Header > select "Image logo"
 
-Genesis > Simple Edits (menu item) > Footer Output
-> enable "[x] Modify Entire Footer Text (including markup)?"
-> enter this code:
+## 1. Enable logo image on homepage
+1. Click the "Genesis" menu item on the Wordpress admin menu, by default of the left side of the screen.
+2. Scroll down to the Header section
+3. Select "Image logo" from the drop down menu.
+4. Scroll down and press the "Save Settings" button.
+
+
+## 2. Limit pages to one H1 tag, for better formatting and better SEO
+1. Select the "Genesis" menu item on the Wordpress admin menu.
+2. Look for the "SEO Settings" menu item, and select it.
+  1a. If you are using an SEO plugin such as Yoast SEO, you might not see the Genesis SEO Settings menu option. If this menu option does not appear, then skip the rest of these steps. You might need to configure your SEO plugin to prevent multiple H1 tags per page.
+3. Disable the option "[ ] Use semantic HTML5 page and section headings throughout site".
+4. Within the "Homepage Settings" section, select "(x) Neither. I'll manually wrap my own text on the homepage".
+
+
+## 3. Add Custom Footer Code
+1. Select the "Genesis" menu item on the Wordpress admin menu.
+2. Look for the "Simple Edits" menu item, and select it.
+3. Within the "Footer Output" section, enable the option "[x] Modify Entire Footer Text (including markup)"
+4. In the "Footer Output" text field, enter this code:
 
 [itdp-search]
 <div class="logo-contact">
