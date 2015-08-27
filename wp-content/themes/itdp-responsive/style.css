@@ -543,7 +543,7 @@ td {
 
 /* ### Content */
 
-.content-sidebar .content,
+/* .content-sidebar .content,
 .content-sidebar-sidebar .content,
 .sidebar-content-sidebar .content {
 	float: left;
@@ -557,11 +557,11 @@ td {
 
 .full-width-content .content {
 	width: 100%;
-}
+} */
 
 /* ### Primary Sidebar */
 
-.sidebar-primary {
+/* .sidebar-primary {
 	float: right;
 	width: 360px;
 }
@@ -569,18 +569,18 @@ td {
 .sidebar-content .sidebar-primary,
 .sidebar-sidebar-content .sidebar-primary {
 	float: left;
-}
+} */
 
 /* ### Secondary Sidebar */
 
-.sidebar-secondary {
+/* .sidebar-secondary {
 	float: left;
 	width: 180px;
 }
 
 .content-sidebar-sidebar .sidebar-secondary {
 	float: right;
-}
+} */
 
 /* ## Column Classes
 --------------------------------------------- */
@@ -855,8 +855,8 @@ img.alignright,
 	margin-bottom: 0;
 } */
 
-.sticky {
-}
+/* .sticky {
+} */
 
 /* # Widgets
 ---------------------------------------------------------------------------------------------------- */
@@ -1317,10 +1317,10 @@ img.alignright,
 /* ## Entries
 --------------------------------------------- */
 
-.entry {
-	/* margin-bottom: 40px;
-	padding: 50px 60px; */
-}
+/* .entry {
+	margin-bottom: 40px;
+	padding: 50px 60px;
+} */
 
 .content .entry {
 	background-color: #fff;
@@ -1577,8 +1577,8 @@ li.comment {
 	display: none;
 }
 
-.bypostauthor {
-}
+/* .bypostauthor {
+} */
 
 .form-allowed-tags {
 	background-color: #f5f5f5;
@@ -1834,7 +1834,7 @@ li.comment {
 /* # Footer Widgets
 ---------------------------------------------------------------------------------------------------- */
 
-.footer-widgets {
+/* .footer-widgets {
 	background-color: #333;
 	clear: both;
 	padding-top: 40px;
@@ -1885,7 +1885,7 @@ li.comment {
 
 .footer-widgets-3 {
 	float: right;
-}
+} */
 
 
 /* # Site Footer
