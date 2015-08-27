@@ -1241,8 +1241,8 @@ img.alignright,
 		padding-right: 40px;
 	}
 	
-	.nav-primary .genesis-nav-menu > .menu-item > a:last-child {
-		padding-right: 0;
+	.nav-primary .genesis-nav-menu > .menu-item:last-child > a {
+		padding-right: 10px;
 	}
 	
 	/* .nav-primary .genesis-nav-menu > .menu-item:nth-last-of-type(2) a {
