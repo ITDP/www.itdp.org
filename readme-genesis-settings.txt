@@ -22,7 +22,7 @@ After you install Genesis -- see readme-themes.txt -- you will need to configure
 3. Within the "Footer Output" section, enable the option "[x] Modify Entire Footer Text (including markup)"
 4. In the "Footer Output" text field, enter this code:
 
-[itdp-search]
+[itdp-search text="Search ITDP ..."]
 <div class="logo-contact">
 	<div class="logo"><a href="/"><img src="/wp-content/themes/itdp-responsive/images/logo-itdp-562x98-trans-ddd.png" alt="ITDP, the Institute for Transportation and Development Policy, logo in gray" width="281" height="49" /></a></div>
 	<ul class="contact-info">

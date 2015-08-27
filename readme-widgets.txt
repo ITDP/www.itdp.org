@@ -4,7 +4,7 @@ Edit the text below, translating it for your audience's primary language. Then c
 
 <!-- Header Right -->
 <ul>
-	<li class="search">[itdp-search]</li>
+	<li class="search">[itdp-search text="Search ITDP ..."]</li>
 </ul>
 <ul>
 	<li class="facebook icon"><a href="https://www.facebook.com/ITDP.org">ITDP on Facebook</a></li>
