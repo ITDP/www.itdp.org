@@ -486,10 +486,6 @@ td {
 	padding: 6px 0;
 }
 
-th {
-	/* font-weight: 400; */
-}
-
 
 /* # Structure and Layout
 ---------------------------------------------------------------------------------------------------- */
@@ -546,12 +542,6 @@ th {
 }
 
 /* ### Content */
-
-.content {
-	/* float: right; */
-	/* padding: 10px; */
-	/* width: 800px; */
-}
 
 .content-sidebar .content,
 .content-sidebar-sidebar .content,
@@ -735,7 +725,7 @@ input[type="search"],
 	width: 18px;
 	padding: 0;
 	top: 5px;
-	background-position: -50px 0px;
+	background-position: -50px 0;
 	border-radius: 1px;
 	transition: none;
 }
