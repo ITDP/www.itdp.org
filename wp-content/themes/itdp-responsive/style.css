@@ -1641,7 +1641,7 @@ li.comment {
 
 .featured-news.widget-area .featnews-title {
 	background: rgb(0,0,0);
-	background: rgba(0,0,0,.7);
+	background: rgba(0,0,0,.5);
 	bottom: 0;
 	color: #fff;
 	font-weight: 800;
@@ -1675,7 +1675,7 @@ li.comment {
 }
 
 .featured-news.widget-area .featnewssecondary .featnews-title {
-	font-size: 24px;
+	font-size: 20px;
 	opacity: 0;
 	transition: all .5s ease-in-out .5s;
 }
