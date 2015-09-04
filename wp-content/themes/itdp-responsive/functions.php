@@ -36,7 +36,7 @@ unregister_sidebar( 'sidebar-alt' );
 
 //* Add "Content Width" theme feature, per http://codex.wordpress.org/Content_Width
 if ( ! isset( $content_width ) )
-    $content_width = 1160;
+    $content_width = 700;
 
 
 //* Register Featured News / More News widget area

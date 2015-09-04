@@ -1,13 +1,13 @@
-/* # ITDP Responsive Genesis Child Theme  
+/* # ITDP Responsive Genesis Child Theme
 Theme Name: ITDP Responsive
-Theme URI: http://my.studiopress.com/themes/genesis/  
+Theme URI: http://my.studiopress.com/themes/genesis/
 Description: This is the ITDP responsive website theme, a child theme running on the StudioPress Genesis framework
 Author: Joe Westcott
-Author URI: http://joewestcott.info 
-Template: genesis  
+Author URI: http://joewestcott.info
+Template: genesis
 Version: 2.1.1
 Tags: green, orange, white, gray, one-column, responsive-layout, custom-menu, full-width-template, rtl-language-support, theme-options, translation-ready
-License: GPL-2.0+  
+License: GPL-2.0+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Release Notes:
 02.01.01	theme version number correction
@@ -1417,29 +1417,9 @@ aside.panel h4 {
 	padding: 0 0 5px 16px !important;
 }
 
-/* begin custom formatting for matchinggifts form */
-/* .matchinggifts {
-	margin-bottom: 20px;
+.tiled-gallery .gallery-row {
+	margin: 0 auto;
 }
-
-.matchinggifts input {
-	border-radius: 10px 0 0 10px;
-	border-right: 0;
-	padding: 10px 20px;
-}
-
-.matchinggifts .search {
-	border-radius: 0 10px 10px 0;
-	border: 1px solid #f66f42;
-	background-color: #f66f42;
-	color: #fff;
-}
-
-.matchinggifts input.search:hover {
-	background-color: #fff;
-	color: #f66f42;
-} */
-/* end custom formatting for matchinggifts form */
 
 /* begin TOC_list */
 .entry-content .staff-toc .toc_list {
